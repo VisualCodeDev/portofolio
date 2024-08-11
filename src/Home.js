@@ -7,7 +7,7 @@ function Home() {
           <h1>VISUAL & CODE DEV. AGENCY</h1>
         </div>
       </loader>
-      <section className="flex h-screen w-screen justify-center items-center">
+      <section className="flex h-screen w-screen justify-center items-center pointer-events-none">
         <div className="h-screen w-screen flex flex-col top relative bg-white overflow-clip load-active">
           <div className="flex items-center justify-center h-full">
             <div className="text-9xl font-secondary relative">

@@ -50,12 +50,12 @@ function Home() {
             </div>
             <div className="absolute webPort flex left-0 -bottom-0 -translate-x-[100%] text-9xl text-[#f3f3f3]">
               <div className="w-max">
-                <p>WEBSITE PORTFOLIO</p>
+                <p>COMPANY PROFILE</p>
               </div>
             </div>
             <div className="absolute webPort2 flex left-0 -bottom-0 -translate-x-[100%] text-9xl text-[#f3f3f3]">
               <div className="w-max">
-                <p>WEBSITE PORTFOLIO</p>
+                <p>COMPANY PROFILE</p>
               </div>
             </div>
           </div>
